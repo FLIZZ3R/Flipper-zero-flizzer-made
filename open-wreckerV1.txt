@@ -1,6 +1,6 @@
 REM Title:Open_WreckerV1
 REM Author: FLIZZ3R
-REM Objective: self destruct open linux machine then create dummmy
+REM Objective: BADUSB self destruct open linux machine then create dummmy
 
 DELAY 500
 WINDOWS d
