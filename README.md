@@ -1,4 +1,5 @@
 #Flipper-zero-flizzer-made#
 a collection of custom BADUSB scripts I 
 will add my personal build as well
-%REM ERRORS FOR SAFTEY%
+####not designed for use without consent or 
+Illegal usage ##
