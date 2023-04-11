@@ -24,7 +24,7 @@ ENTER
 +DELAY 1000
 +STRING reboot
 +ENTER
-
+:::FLIZZ3R@DISCORD)))
 
 
 
